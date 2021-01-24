@@ -1,8 +1,16 @@
 html,
 body,
-header,
+#headerIndex,
 #intro {
     height: 100%;
+}
+
+#headerRest{
+  height: 20%;
+}
+
+#mainContainer{
+  height: 60%;
 }
 
 #intro {
